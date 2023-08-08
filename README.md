@@ -1,6 +1,6 @@
 # MIT_BIH_ECGs
 ### Submit research results to IEEE ICCE-TW 2023 
-## The goal of paper
+## The goal of our paper
 Our novel approach transforms the segmented time-series into two-dimensional images, improving feature coverage and highlighting differences between arrhythmia types.
 
 This study used the MIT-BIH arrhythmia database for research design and experiments. The following is a detailed description of each step:
